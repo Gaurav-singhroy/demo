@@ -1,0 +1,48 @@
+        body{
+            background-color:lightgray;
+
+        }
+        .div{
+            background-color: rgb(164, 164, 255);
+            height: 100px;
+       
+        }
+        
+        h1{
+            text-align: center;
+            font-size: 50px;
+        }
+
+        .legend{
+            font-size: 30px;
+            background-color: yellow;
+            text-decoration: dashed;
+            color: black;
+            
+        }
+
+        label{
+            font-size: 20px;
+            color:black ;
+        }
+
+        #bold{
+            background-color:pink;
+            font-size: 25px;
+        }
+
+        #field1{
+            border-color: rgb(2, 2, 34);
+            background-color: rgb(158, 209, 229);
+        }
+        #field2{
+            background-color: rgb(154, 154, 210);
+
+        }
+
+        .input{
+            border-radius: 2px;
+            height: 30px;
+            width: 250px;
+        }
+        
